@@ -1,0 +1,20 @@
+getgenv().Script_Version = "1.13.3"
+getgenv().Version_Update_Message = [[
+This current version, 1.13.3 has received several notable updates. 
+-----New features-----:
+
+New | "Copy Discord/V3rmillion/Youtube" buttons can now be found in [Main>Settings>Misc Settings]. The Discord button will copy my Discord name and #, and the V3rmillion/Youtube buttons will copy my YT and V3rmillion account profile links. Please use any of these for script supports/ideas/misc. 
+New | "Kill All" button can be found in [Main>Combat>Kill All] (Only works as murderer on traditional mm2 type games. Support for mmx versions being added later.) This will Kill all the players in-game and sometimes works in assassin game mode. 
+New | Teleport to Gun Drop button [Main>Teleports>Game Teleports] will teleport your character to the sheriff's gun (if dropped).
+New | Teleport to Murderer button [Main>Teleports>Game Teleports] will bring you to the murderer. 
+New | Teleport to Sheriff button [Main>Teleports>Game Teleports] will bring you to the sheriff's character.
+New | "Auto unbox all" button [Main>Autofarms>Autofarms-shop] has been added and will open all possible Gun/Knife/Pet crates. However, it is advised to use the single crate opener over this because you can obtain one type quicker and with less lag. 
+
+-----Updated features-----:
+Update | Chams have once again been completely remade with a new and sleeker look with FPS optimization in mind!
+
+-----Bug fixes-----:
+Fixed | Fixed some general bugs and added teleport support for 2xy mm2.
+
+Please use my Youtube / Discord / V3rmillion accounts if you need help with the script or want to see a feature/game added!
+]]
